@@ -94,23 +94,11 @@ angle_Y_gravityMean_
 angle_Z_gravityMean_
 
 Variables Used In R program:
-temptable1
-temptable2
-myres
-myres2
-myres3
-features
-good_features
-names
-activities
-cleaned
-countActivities
-countSubjects
-uniqueSubjects
-numCols
-result
-rowcount
-s
-a
-temp1
-
+datatest
+datatrain
+databind
+holdfeatures
+data
+datalabels
+good.colnames
+aggr.data
